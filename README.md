@@ -164,7 +164,7 @@
      %\rule{\textwidth}{1.0pt} 
 % -------- Summary ------ 
 \section{Summary}
-\vspace{-3pt}
+\vspace{-4pt}
 
 {\small
 Cloud-focused IT professional with 3.10 years of experience in Windows Server Administration and
@@ -177,8 +177,7 @@ Experienced in supporting and improving hybrid IT infrastructures with a focus o
 high availability, and cloud cost optimization. Actively learning modern cloud operational practices to
 strengthen automation and performance.
 
-Seeking opportunities in VMware/AWS Administration and Cloud Operations.
-
+\item \textbf{ Seeking opportunities in VMware/AWS Administration and Cloud Operations.}
 \vspace{4pt}
 \begin{itemize}[leftmargin=0.15in]
 
@@ -246,7 +245,6 @@ DNS, DHCP, patching, and performance tuning.
          \resumeItem{Performed provisioning, decommissioning, and lifecycle management of AWS EC2 instances and
 VMware virtual machines, including OS installations, upgrades, and migration from end-of-life
 operating systems to supported versions.} 
-          \resumeItem{Windows Server Support: Providing L1/L2 support for Windows Servers (2012/2016/2019/2022) globally, including troubleshooting and resolving OS-related issues, slow boot problems, server hang, and performance issues}
           \resumeItem{Executed backup, restore, and disaster recovery operations using AWS snapshots, AMIs,
 and VMware backup solutions like snapshots and other windows server backups , improving recovery readiness and minimizing downtime risks} 
           \resumeItem{Managed identity and access controls using AWS IAM and Active Directory,
@@ -261,6 +259,7 @@ ServiceNow, ensuring timely resolution, root cause analysis, and adherence to SL
           \resumeItem{Identified and implemented optimization opportunities in AWS and VMware environments,
 including rightsizing EC2 instances, storage optimization, and cost control measures,
 contributing to improved resource utilization and reduced operational costs.}
+          \resumeItem{Windows Server Support: Providing L1/L2 support for Windows Servers (2012/2016/2019/2022) globally, including troubleshooting and resolving OS-related issues, slow boot problems, server hang, and performance issues.}
           \resumeItem{Cross-Functional Collaboration: Coordinating with multiple teams to ensure the smooth operation of servers and services.}
           \resumeItem {patch management and vulnerability remediation activities across 
 VMware-hosted systems, maintaining security compliance and operational stability.
